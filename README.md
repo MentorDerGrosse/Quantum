@@ -1,2 +1,2 @@
 # Quantum
-It is an OS
+it's an OS
